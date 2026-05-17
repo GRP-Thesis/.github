@@ -87,7 +87,7 @@ An ensemble layer that combines the outputs of the transformer and Random Forest
 thesis-development/
 ├── data/
 ├── inter_annotation_agreement/
-├── models
+├── models/
 ├── notebooks/
 ├── prototype/
 │   ├── backend/
