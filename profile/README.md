@@ -50,7 +50,7 @@ An ensemble layer that combines the outputs of the transformer and Random Forest
 
 - Taglish SMS classification
 - Persuasion-aware linguistic analysis
-- Explainable AI-oriented dashboard
+- Explainable smishing analysis dashboard
 - Branch-level confidence visualization
 - Ensemble prediction analysis
 - Persuasion-marker detection and visualization
